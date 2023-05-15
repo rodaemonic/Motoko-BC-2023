@@ -24,7 +24,7 @@
   "defaults": {
     "build": {
       "args": "",
-      "packtool": "npx mops sources"
+      "packtool": ""
     }
   },
   "version": 1
